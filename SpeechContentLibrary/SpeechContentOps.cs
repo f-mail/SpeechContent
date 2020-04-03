@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace SpeechContent
 {
+    //operations with SpeechContent
     public static class SpeechContentOps
     {
         private static string BaseFolder = @"E:\Google Drive\+SpeechContent";
