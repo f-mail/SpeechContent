@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechContentLibraryTests",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechContentClient", "SpeechContentClient\SpeechContentClient.csproj", "{94EBB324-D0E5-4D9F-8FF4-4020B97BCFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechContentBGListener", "SpeechContentBGListener\SpeechContentBGListener.csproj", "{6283438C-465A-4E96-8073-EAEB5E2C45D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{94EBB324-D0E5-4D9F-8FF4-4020B97BCFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94EBB324-D0E5-4D9F-8FF4-4020B97BCFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94EBB324-D0E5-4D9F-8FF4-4020B97BCFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6283438C-465A-4E96-8073-EAEB5E2C45D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6283438C-465A-4E96-8073-EAEB5E2C45D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6283438C-465A-4E96-8073-EAEB5E2C45D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6283438C-465A-4E96-8073-EAEB5E2C45D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
